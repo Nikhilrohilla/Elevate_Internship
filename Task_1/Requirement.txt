@@ -1,0 +1,5 @@
+Python’s standard library is sufficient, so no external packages are required. You can either leave the file empty or include a comment:
+
+No external libraries required.
+
+Python 3.10 or above
