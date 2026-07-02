@@ -44,3 +44,43 @@ python todo.py
 
 macOS/Linux:
 python3 todo.py
+
+Task_3
+# News Headlines Web Scraper
+
+## Description
+
+A Python application that scrapes the latest news headlines from a public news website and saves them into a text file.
+
+## Features
+
+- Fetches webpage using requests
+- Parses HTML using BeautifulSoup
+- Extracts headlines from h2 tags
+- Saves results into headlines.txt
+
+## Requirements
+
+- Python 3.x
+- requests
+- beautifulsoup4
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+Windows
+
+```bash
+python news_scraper.py
+```
+
+macOS/Linux
+
+```bash
+python3 news_scraper.py
+```
